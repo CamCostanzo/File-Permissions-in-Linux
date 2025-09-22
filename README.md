@@ -1,3 +1,6 @@
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/127ec07c-7bd0-4482-aca3-b3d91466e84c" />
+
+
 # File-Permissions-in-Linux
 
 ## Check file and directory details
